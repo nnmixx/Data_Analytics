@@ -1,0 +1,30 @@
+#numpy
+import numpy as np
+# a=np.array(['aaa','bbb','ccc'])
+# print(a)
+# print(a.dtype)
+# #creating a rank 2 array
+# arr=np.array([[1,2,3],[4,5,6]])  
+# print(arr)
+# #creating a rank 3 array
+# arr1=np.array([[[1,2,3],[4,5,6]],[[7,8,9],[10,11,12]]])
+# print(arr1)
+#creating an array from a tuple
+# arr2=np.array((1,2,3))
+# print(type(arr2))
+# print(arr2.dtype)
+# print(arr2)
+# arr3=np.array([[1 ,2,3,4],[4,5,6,7]])
+# print(arr3.itemsize)
+# print(arr3.size)
+# print(arr3.shape)
+#     arr4=np.array([[[1,2,3],[4,5,6]],])
+# print("shape of original array ::", arr4.shape)
+# print("original array ::\n", arr4)
+# arr5=arr4.reshape(2,3)
+# print("shape of reshaped array ::", arr5.shape)
+# print("reshaped array ::\n", arr5)
+arr6=np.array([(1,2),(3,4),(5,6),(7,8)])
+# print(arr6[0,1])
+# print(arr6[2,0])
+print(arr6[0:2,0:2])

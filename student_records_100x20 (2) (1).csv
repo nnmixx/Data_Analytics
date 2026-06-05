@@ -1,0 +1,101 @@
+Student_ID,First_Name,Last_Name,Gender,Age,Class,Section,Roll_Number,Email,Phone_Number,Address,City,State,Zip_Code,Date_of_Birth,Admission_Date,Attendance_Percentage,Math_Score,Science_Score,English_Score
+SID001,Jacob,Booker,Female,14,11th,A,31,slopez@barton-griffith.info,001-542-210-7693,"PSC 9767, Box 3004, APO AE 35919",West Thomas,Minnesota,93925,2010-02-19,2022-11-08,91.08,99,52,100
+SID002,Dennis,Martinez,Male,19,12th,B,59,shannon79@yahoo.com,+1-749-951-6898x83270,"289 Schroeder Ranch Apt. 813, Lake Dana, MA 73409",Andrewville,Delaware,21864,2009-12-29,2023-11-20,97.67,80,62,66
+SID003,Ashley,Yoder,Male,14,11th,B,52,angelaharrison@hernandez.org,001-781-904-2040,"52180 David Motorway Suite 019, Hopkinsport, NJ 29571",Wellstown,Maryland,16100,2011-11-03,2022-05-12,77.25,63,45,41
+SID004,Cody,Roberts,Male,20,9th,B,49,ssherman@gmail.com,001-733-552-1799x10697,"47208 Taylor Vista Suite 255, Nelsonmouth, WA 82110",Ericville,Texas,66980,2008-05-13,2021-11-30,84.68,67,93,82
+SID005,Kelly,Phillips,Female,18,10th,C,32,oliverdavid@yahoo.com,828-452-3781x821,"84548 Janice Course, Ramosfort, MA 86128",Smithhaven,Nevada,15034,2010-02-23,2025-02-03,97.84,43,94,87
+SID006,Keith,Thomas,Male,16,11th,A,11,brownjulia@roberts-ward.com,(676)155-3683x302,"1586 Dawson Drive Apt. 810, North Erinshire, LA 21549",Pamelaland,Ohio,21049,2011-10-24,2024-07-04,93.44,66,53,71
+SID007,Jackson,Gonzalez,Female,15,11th,C,53,wscott@yahoo.com,6213553428,"262 Wagner Lock, Melissaborough, ME 23355",Bruceside,West Virginia,63884,2011-01-08,2023-05-01,79.82,66,42,89
+SID008,Michael,White,Male,20,10th,B,40,sedwards@yahoo.com,+1-345-488-5203x84132,"7078 Jenkins Greens, Jordanshire, NH 69925",Stephaniebury,Utah,90650,2006-06-03,2026-02-10,86.73,100,100,63
+SID009,Carlos,Weber,Female,15,11th,B,24,alexandra90@hotmail.com,+1-201-339-2872x171,"16331 Jackson Place Suite 303, Port Rita, ID 08685",North Jaredtown,North Carolina,65289,2011-03-24,2023-10-08,76.08,64,89,76
+SID010,Kimberly,Brown,Male,16,10th,C,48,antoniohorne@gmail.com,(271)581-0409,"40232 Connie Ports Suite 328, Briannabury, VT 72335",Jessicashire,Washington,05664,2010-07-18,2025-08-22,91.21,91,69,61
+SID011,Nicholas,Hunt,Female,18,10th,A,1,nancystrong@gmail.com,3668226286,"4872 Matthew Centers, New Jennifer, WI 47915",Lake Leah,Arizona,75338,2008-02-22,2026-04-03,99.99,52,53,42
+SID012,Patricia,Martin,Male,16,10th,C,55,wryan@yahoo.com,4605760538,"49236 Oconnell Extension Apt. 331, Reedfort, MA 21363",Wardfurt,Delaware,07672,2009-01-10,2024-06-23,74.72,92,53,47
+SID013,Sharon,Carter,Male,20,10th,B,26,travis38@miller.com,+1-859-725-0709x724,"885 Michael Roads, South Bruceville, MN 47066",Brettfurt,North Dakota,36309,2009-07-04,2023-07-30,84.29,81,45,55
+SID014,Casey,Cox,Female,18,12th,B,44,ifitzgerald@martinez-brown.biz,+1-545-976-5853x7251,"23030 Wilson Pine Suite 782, Diazfurt, NV 94798",Port Meghan,Florida,74005,2009-12-08,2023-12-14,81.17,88,82,56
+SID015,Elijah,Myers,Male,17,12th,B,17,christina32@jones.com,360-536-4058x4811,"180 Carolyn Brook Suite 240, Saramouth, ND 31191",Anthonyhaven,New York,44187,2012-03-25,2025-10-13,90.69,50,83,88
+SID016,Michael,Anderson,Female,18,11th,B,10,eric81@yahoo.com,+1-520-936-9471x22031,"95439 David Meadows Apt. 762, Cooperchester, KS 74825",Smallfort,Alaska,65662,2009-12-09,2021-11-23,93.43,63,47,72
+SID017,Derek,Kent,Male,17,12th,A,45,johnsonalan@hotmail.com,001-484-548-3125x81098,"854 Curtis Expressway Suite 350, South Tyler, DC 52387",North Bonniemouth,North Carolina,24896,2010-08-01,2024-07-14,75.4,76,84,49
+SID018,Stephanie,Johnson,Female,14,11th,A,57,jhoover@gmail.com,8079165634,"USS Johnson, FPO AA 63174",Kathleenborough,Montana,46240,2009-11-13,2023-02-07,75.39,78,59,71
+SID019,Mark,Solis,Female,14,9th,B,51,clarkmonica@hotmail.com,+1-209-720-6449x98259,"Unit 8924 Box 9010, DPO AE 82626",Lindaberg,Mississippi,73499,2007-11-08,2023-04-01,75.71,70,100,42
+SID020,Michael,Hunt,Male,14,9th,B,2,phillipskelli@green-edwards.net,728-704-0822x9893,"825 James Isle, Lake Teresachester, MN 07475",Port Darrell,Kansas,43886,2009-02-22,2022-09-17,97.78,63,87,74
+SID021,Christina,Bird,Female,20,9th,A,23,kimberlyperry@miller.net,082.704.0591,"843 Oliver Ferry Suite 243, Katherinestad, UT 71044",Port Malloryshire,Hawaii,48310,2005-10-15,2024-10-20,75.47,66,53,47
+SID022,Tyrone,Morris,Female,16,9th,C,52,bethsoto@black-marquez.com,+1-931-247-5548x2456,"25643 Darren Centers Suite 079, New Sandra, TN 16959",Carlaburgh,Texas,77814,2007-01-01,2024-10-06,77.13,78,46,53
+SID023,Lori,Watts,Male,18,9th,A,51,joseph84@melton.com,+1-775-153-4567x7993,"731 Gomez Spurs Apt. 945, Ginaville, UT 71009",Port Madeline,Wyoming,57817,2010-07-07,2026-04-17,88.23,42,45,67
+SID024,Phillip,Sanchez,Female,15,12th,B,36,srodriguez@hotmail.com,328.700.2498x8376,"0575 Hill Stravenue, Colontown, WY 43869",Sandraborough,New Jersey,77464,2012-01-06,2025-11-19,83.13,97,50,88
+SID025,Taylor,Taylor,Female,15,10th,A,26,chambersjodi@quinn.net,898-670-2919,"0648 Angelica Points Suite 880, Stanleymouth, OR 88513",West Brian,Delaware,82183,2009-10-01,2023-12-27,84.05,68,45,60
+SID026,James,Moore,Male,16,12th,B,32,aparker@gmail.com,863-686-6662x694,"07459 Jones Extension Apt. 026, Sparksfort, IA 31745",Megantown,California,88496,2010-02-02,2024-05-25,82.41,72,90,82
+SID027,James,Reynolds,Male,16,9th,B,23,ptaylor@burnett-sims.com,4543650457,"007 Cindy Port, Phillipsside, WA 42878",Lake Nicholas,North Dakota,79135,2009-12-16,2025-07-16,93.33,65,43,65
+SID028,Andrea,Murphy,Female,17,11th,B,38,smoody@sherman-hansen.com,+1-543-331-1558x794,"5477 Stephanie Unions Suite 005, East Jasonfort, AL 47534",Amandaport,New York,57296,2007-04-24,2022-06-27,83.02,68,59,61
+SID029,David,Richardson,Male,20,9th,B,52,grayphillip@gmail.com,192-125-8401x8389,"1271 Buck Crossing Apt. 279, North Mathew, MI 78793",Sonyaton,South Dakota,68005,2009-01-15,2023-01-17,90.38,52,95,66
+SID030,Dawn,Murphy,Female,15,12th,C,1,jmedina@owen.com,+1-074-342-9664,"15240 Mason Oval, Hawkinsmouth, CT 39666",Phillipsville,Louisiana,69389,2008-05-28,2026-05-14,93.39,57,76,48
+SID031,David,Mccormick,Male,15,10th,C,38,mariagonzalez@perry-walton.info,9714838336,"82308 Williams Ports Suite 533, Stephenshire, RI 72396",Anthonyside,Delaware,59045,2008-06-20,2022-01-16,83.35,52,73,73
+SID032,Connor,Gomez,Female,18,11th,C,15,christopherfry@olson.com,923-588-8100x0254,"850 Meyer Parkway, Adamsview, ME 72190",Millerchester,New York,21628,2010-05-09,2024-06-11,94.12,57,42,96
+SID033,Jesus,Jackson,Female,16,11th,A,32,april43@martinez.net,828.015.7248,"623 Martinez Route Suite 226, Reidfort, DC 83932",Marissaside,Pennsylvania,40021,2011-03-14,2021-10-07,71.11,83,89,64
+SID034,Ryan,Brown,Female,18,12th,A,46,jessica54@gmail.com,+1-354-741-6309,"Unit 5854 Box 9985, DPO AP 26806",Pamelaview,Connecticut,62226,2010-12-21,2025-06-15,73.67,40,63,96
+SID035,Leslie,Duran,Female,15,9th,A,28,davidmorgan@gmail.com,595-914-2735x7479,"Unit 2641 Box 6617, DPO AA 34659",Burgessport,Pennsylvania,47757,2006-04-15,2024-06-12,75.82,95,95,95
+SID036,Emma,Harding,Male,18,10th,A,7,nbailey@sanford-nguyen.com,(019)981-6529x854,"2102 White Camp, North Kathy, FL 53281",East Julie,Virginia,89486,2009-04-07,2026-04-30,99.67,45,79,80
+SID037,Tammy,Porter,Female,15,11th,B,20,gcooper@gmail.com,864-887-9068x283,"0254 Christopher Oval, South Johnhaven, NV 29642",Jacobshaven,Hawaii,17889,2011-04-25,2022-09-12,97.56,70,86,68
+SID038,Eric,Smith,Male,18,12th,B,60,gsloan@collins.org,9332411207,"3377 Louis Radial, Robinside, GA 93433",Palmermouth,California,58449,2010-10-01,2023-06-11,72.6,94,50,77
+SID039,Kimberly,Reyes,Male,17,11th,A,56,laura64@sherman.biz,+1-037-007-1899x560,"61759 Goodwin Causeway, Williamstown, OR 67624",Austinville,Massachusetts,04084,2006-04-18,2023-11-10,98.55,67,72,92
+SID040,April,Mcintosh,Male,18,11th,A,10,owenspaul@berg-daniel.com,461-305-9356x9650,"2915 Debra Inlet Apt. 900, Port Natalieside, WA 88767",New Virginia,Colorado,35457,2010-07-14,2023-04-05,96.63,56,64,52
+SID041,Jennifer,Garcia,Male,18,9th,A,20,samuelkelly@jackson.com,211.129.2218x67240,"4972 Blackburn Courts, East Tracey, AK 82139",Jonesmouth,Nebraska,38456,2009-07-02,2023-03-23,98.08,50,80,70
+SID042,Rebecca,Dixon,Male,20,12th,C,33,morrisanthony@herman.com,847-414-7213,"397 Antonio Forges, Rachelstad, IL 65116",Port Stephenbury,Arizona,95701,2009-07-26,2025-02-04,92.55,61,75,98
+SID043,Jennifer,Pierce,Male,15,12th,C,28,shellyolson@yahoo.com,3486962193,"Unit 0849 Box 6443, DPO AE 75664",East Rossstad,New Jersey,76589,2006-11-05,2021-10-09,93.8,80,43,62
+SID044,Lisa,Garcia,Female,17,9th,C,48,michaelwilliams@jordan.info,(530)490-8734x2657,"88417 Tamara Court, East Amanda, NV 51888",East Michael,Indiana,74446,2008-05-22,2026-03-01,83.66,44,88,84
+SID045,Brian,Jones,Male,14,9th,B,21,michaelprice@hotmail.com,910.039.8362x250,"22900 Joseph Walks, New Jerryberg, NV 31239",Perezview,Indiana,62547,2011-10-07,2025-07-15,83.57,48,79,52
+SID046,Desiree,Murphy,Male,16,11th,A,43,jillpacheco@zavala-adkins.com,+1-028-878-8451x422,"63654 Cody Hills Suite 039, Harrisfort, FL 54688",Zoefurt,North Carolina,17527,2006-04-20,2025-10-21,70.57,58,44,51
+SID047,Michael,Wallace,Female,16,11th,B,50,mgarcia@hotmail.com,(490)776-3468x185,"09319 Gay Island Suite 412, East Johnborough, PA 49208",South Stephanie,Arizona,67195,2007-09-17,2022-02-19,89.89,53,94,92
+SID048,Selena,Gaines,Male,17,10th,A,22,ericrodriguez@pineda-rodriguez.com,414.576.4448x55531,"120 Cindy Avenue Suite 748, Lake Geraldbury, OH 71979",Bartonchester,Utah,44680,2011-09-04,2024-01-02,97.9,69,46,64
+SID049,Joseph,Johnson,Male,20,9th,C,41,jacksonlester@yahoo.com,876.667.0374,"31655 Pena Canyon Apt. 038, Carlamouth, WY 93665",Blackbury,South Dakota,32777,2010-10-26,2021-12-11,73.66,93,94,92
+SID050,Christopher,Nelson,Male,15,11th,A,35,ashleyleon@hotmail.com,402-046-6851x9383,"6229 Johnson Ports Apt. 932, Deckerland, PA 78702",East Sarahport,Texas,27160,2011-10-03,2026-05-01,76.51,61,50,79
+SID051,Julian,Williams,Male,17,11th,B,13,vdean@gmail.com,+1-381-626-8711x02129,"9866 Schmidt Station, New Travisside, HI 48315",Seanmouth,Ohio,01765,2011-08-16,2025-07-27,89.99,71,77,47
+SID052,Yolanda,Lewis,Male,17,11th,C,13,jonathan19@hotmail.com,214-567-2989x55243,"042 Holt Park Apt. 436, Vaughnstad, CT 45116",Port Tiffanyfurt,Illinois,35286,2006-04-27,2025-04-04,75.58,57,55,100
+SID053,Joy,Sanchez,Male,14,12th,C,42,smithlauren@hill.com,040-837-4334x1442,"4015 Davis Causeway, Valenciabury, NM 42763",New Edward,Connecticut,87059,2007-04-24,2025-01-11,79.19,98,48,43
+SID054,Charles,Roberts,Male,19,9th,B,40,nicoledavis@mason.com,001-941-891-3018x2408,"8229 Cook Terrace Suite 792, East Kristinview, NE 52987",South Karabury,Delaware,16086,2008-12-28,2022-04-03,71.16,54,76,42
+SID055,Julie,Davis,Male,19,9th,A,20,stacy42@sloan-ford.net,001-890-692-3453x43770,"912 Porter Crossing Suite 081, North Kathryn, NY 68382",New Jeremyton,Missouri,51524,2008-06-09,2021-06-15,92.91,97,63,97
+SID056,Thomas,Harrell,Female,16,9th,A,14,melissawashington@griffin.com,+1-736-116-0964x0713,"27800 Jessica Mission, Jesusburgh, GA 14775",Lake Denise,Iowa,26627,2006-09-06,2024-07-07,88.87,70,59,51
+SID057,Joseph,Salinas,Female,17,9th,C,27,lauren18@gmail.com,378.709.1314,"20629 Gray Cliffs, New Christophermouth, AL 35122",Vargashaven,Arkansas,42256,2010-09-27,2022-08-12,73.73,89,64,67
+SID058,Scott,Moore,Male,20,10th,B,58,kaylaward@gmail.com,568-924-2251x906,"192 Padilla Unions Suite 064, Taraside, AR 07659",Bryantown,Idaho,64025,2008-02-09,2025-04-14,82.7,46,50,64
+SID059,Randy,Smith,Female,16,11th,C,31,kathleenacosta@rodriguez.com,001-514-446-0318x1899,"35250 David Square, Choiville, ND 53035",Crawfordberg,Alaska,56527,2007-02-23,2025-02-20,92.93,63,66,74
+SID060,Angela,Hill,Female,17,10th,A,6,cristian43@gmail.com,(999)707-9657,"896 Daniel Mountain, Markstad, FL 05778",Amyburgh,Wisconsin,19884,2006-10-24,2022-12-04,99.48,65,82,60
+SID061,Regina,Pittman,Female,14,9th,B,28,onealbrandon@crane-santiago.org,863-883-0528,"7788 Christian Ford Suite 099, Bryanmouth, CT 40888",Lake Paigeside,Utah,44965,2006-10-18,2022-01-26,77.03,76,96,52
+SID062,Jessica,Moss,Female,14,11th,C,45,rodgerstodd@yahoo.com,867-272-0074x535,"89246 Sanchez Cliffs Suite 349, East Carlastad, ND 53728",Lake Theresaberg,Michigan,20788,2007-09-14,2025-02-24,79.67,52,57,58
+SID063,Steven,Matthews,Female,17,10th,A,26,alejandra80@gmail.com,001-229-155-2635,"553 Kathryn Common, Guzmanberg, AL 10894",Frederickfurt,New Hampshire,47759,2007-04-06,2024-10-29,98.88,94,58,46
+SID064,Donna,Cole,Female,15,10th,C,40,susan57@hotmail.com,(672)086-3554,"12385 Jennifer Ridges Suite 290, West Jeremy, DC 19772",West Elizabethchester,Wyoming,99341,2005-06-28,2024-07-04,98.82,43,91,93
+SID065,Todd,Vega,Male,14,11th,B,1,jason11@hotmail.com,255-293-4830,"65458 Contreras Isle Suite 313, Mcneilhaven, KS 99461",South William,Montana,64619,2006-03-20,2022-03-01,77.4,99,62,94
+SID066,Patricia,Santos,Male,17,11th,A,18,clarkjulian@cox.com,362-450-7886,"5693 Hernandez Camp Suite 803, Susanton, ND 43124",Loganborough,Alabama,88547,2009-10-14,2026-03-07,89.81,43,51,97
+SID067,Olivia,Nguyen,Male,19,9th,A,7,johnmoody@hotmail.com,001-986-391-5189x828,"611 Byrd Isle Suite 528, Port Scottfurt, NV 58265",Reedton,Tennessee,31002,2006-03-05,2024-01-23,77.81,70,40,100
+SID068,Thomas,Hansen,Female,16,10th,A,31,amanda37@gmail.com,001-404-292-0990x17818,"7961 Stark Rest Apt. 494, Robertmouth, AZ 87342",Kellymouth,Iowa,07432,2007-11-08,2025-10-14,75.08,93,46,79
+SID069,Kenneth,Bray,Male,18,9th,A,5,tosborn@wilkins-rice.com,920.747.7060x016,"024 Taylor Mill Apt. 800, Port Thomasside, RI 43511",Raymondview,New Mexico,58246,2011-08-25,2023-09-06,86.96,60,91,51
+SID070,Connor,Bradley,Female,14,12th,C,18,mperez@brooks-rosario.org,+1-263-807-5080x869,"8007 Green Walk Apt. 594, South Michael, DE 02994",East Mariashire,Iowa,75516,2011-12-31,2022-02-15,95.5,49,40,97
+SID071,Ariana,Novak,Male,19,12th,B,45,crystalnguyen@lopez.com,257.627.6138,"0081 Corey Knoll Suite 213, Williamsburgh, SC 56881",Kingburgh,Mississippi,22155,2007-02-20,2025-02-13,95.27,96,53,97
+SID072,John,Camacho,Female,17,12th,A,35,andrew51@kim.com,454-910-7802,"12509 Sarah Station, Troyborough, NC 74750",North Gregory,Idaho,32347,2008-03-03,2022-11-29,75.45,48,45,94
+SID073,Theresa,Rodriguez,Male,16,11th,B,13,villarrealerin@briggs.com,(466)680-3182x917,"275 Ann Well, Port April, UT 57789",West Carlos,Louisiana,58649,2011-05-30,2024-10-04,95.08,71,45,69
+SID074,Daniel,Oliver,Male,15,12th,A,26,christine35@edwards.org,(830)002-3486,"2706 Crystal Centers, North Cole, AK 27344",South Malloryberg,New York,12878,2012-03-11,2022-07-18,78.0,75,63,72
+SID075,Loretta,Burnett,Female,15,9th,B,40,joseph62@hotmail.com,+1-846-377-5549,"2635 Erica Passage Suite 025, Ryanport, AZ 34809",Robertborough,Alabama,58718,2012-01-26,2025-01-15,80.8,59,92,87
+SID076,Nicole,Lee,Female,19,10th,B,34,benjaminvillegas@gmail.com,(089)724-1278x29035,"63483 Billy Village Apt. 208, West Amy, MS 68764",Harristown,Connecticut,47682,2009-01-31,2024-10-01,98.71,47,99,97
+SID077,Claudia,Gibbs,Male,17,9th,B,33,david96@holland.com,+1-416-753-3651,"Unit 2854 Box 7001, DPO AE 26691",Robertsburgh,Louisiana,34907,2009-04-16,2025-01-28,87.37,94,81,73
+SID078,April,Allen,Female,15,12th,C,34,brandyhaynes@gmail.com,(461)543-9399x9331,"68379 Randy Meadows, Port Robertafurt, MI 06626",Stanleymouth,Oklahoma,15135,2005-05-28,2023-09-03,96.98,47,72,89
+SID079,Rachel,Butler,Female,17,10th,B,35,anne85@webb-luna.net,001-838-413-7485x29058,"641 Michael Lane Apt. 998, Joeview, OR 25366",South Douglasshire,California,24075,2006-11-14,2022-03-23,88.18,95,68,70
+SID080,Kelly,Roberson,Female,16,9th,C,57,jody02@yahoo.com,986.306.4609,"1670 Anderson Center, Scottborough, WV 74610",West Eric,New Mexico,97678,2006-10-05,2025-05-22,98.69,77,97,76
+SID081,Monica,Ward,Male,16,12th,B,44,hortondaniel@buckley.com,+1-411-346-5537x36477,"4529 Torres Street Apt. 495, West Daniel, KY 11462",West Christinahaven,Minnesota,85022,2010-10-07,2023-02-18,84.13,58,90,82
+SID082,Cynthia,Andersen,Male,17,12th,A,1,alexander52@gmail.com,(644)244-1557x494,"20133 Andrew Hollow Suite 859, South Amanda, MN 55605",Port Douglas,Maine,80263,2010-08-09,2025-10-20,77.47,61,84,69
+SID083,Tracy,Anthony,Female,19,12th,A,33,melissaparks@bell.com,(990)794-4512,"12120 Diana Turnpike Suite 890, Kristieside, AR 20204",South Charles,Washington,54795,2006-04-05,2024-07-25,76.39,85,67,57
+SID084,Rebecca,Martinez,Female,14,10th,A,59,aprilflynn@moore-diaz.biz,+1-913-488-0623,"6791 Brenda Orchard Apt. 175, Huffside, AZ 27675",North Brianna,Michigan,80120,2007-12-08,2025-04-16,75.69,81,90,49
+SID085,Robert,Hancock,Male,16,10th,C,44,elizabethstrickland@bryant-poole.com,7559036109,"7295 George Pass Suite 260, Lake Andrewland, NM 74649",Lake Patriciaberg,Nevada,26464,2005-12-30,2023-08-02,74.46,52,78,59
+SID086,Amy,Wolf,Male,20,11th,A,36,greenphilip@gmail.com,688.078.9589,"3834 Lawrence Knoll, Lake Christineburgh, KY 49057",Wilsonton,Missouri,24956,2005-06-13,2025-10-09,90.36,96,68,66
+SID087,Brooke,Fischer,Male,15,12th,B,9,ashley45@gmail.com,(031)517-3883x399,"125 Jared Ridges Apt. 073, Priscillashire, WV 82830",New Jennifershire,Nevada,54332,2012-01-11,2023-01-03,97.4,50,56,69
+SID088,Gail,Glass,Female,18,12th,B,6,jaredrichards@wilkinson-jackson.com,+1-015-456-9334x420,"8849 Michael Greens, Bowenland, CT 87822",Johnville,Oklahoma,26037,2008-08-13,2022-05-16,86.47,57,69,67
+SID089,Janet,Little,Male,18,12th,C,50,anthony88@washington.com,001-358-195-0621x67568,"100 Mcclain Mills Suite 462, North Gregorychester, WV 10932",Beckerville,Rhode Island,28590,2007-02-07,2022-03-21,90.19,71,64,79
+SID090,Jose,Kelly,Male,15,9th,A,47,donna26@walsh-reese.com,+1-902-591-3258x76314,"PSC 3017, Box 4052, APO AP 02209",Port James,New York,91176,2011-07-31,2026-01-07,88.51,57,83,77
+SID091,Joseph,Perkins,Male,17,9th,B,35,gabrielle68@hotmail.com,(419)422-4859x3612,"7038 Clements Freeway Suite 600, Port Anthonyport, ND 79509",Port Terriland,Iowa,11061,2007-02-07,2025-07-09,90.0,65,88,40
+SID092,Lynn,Summers,Female,19,9th,C,1,williamjohnson@hotmail.com,081-481-9096,"04955 Roger Shoal Suite 552, Jenniferland, TX 84072",West Karenchester,Wyoming,79655,2010-10-17,2023-04-12,92.38,55,86,62
+SID093,Roberto,Holmes,Male,17,10th,A,7,grhodes@hayden.net,2609161451,"2695 Patrick Rest Suite 329, North Aaronfurt, AZ 33723",East Rachelton,Iowa,09106,2011-11-09,2021-06-10,93.43,75,66,57
+SID094,Sergio,Lucas,Male,19,11th,C,8,brandonsmith@harris-stone.com,(992)852-2905,"01820 Paul Roads Apt. 373, Adamtown, KY 44450",South Peter,Maryland,71701,2006-02-19,2024-08-06,70.72,86,40,87
+SID095,Amber,Watson,Male,19,11th,B,10,darren84@hotmail.com,+1-752-155-5835,"781 Theodore Manor Suite 681, Davilaside, VA 65431",Micheleport,Rhode Island,60664,2010-11-23,2024-11-05,92.64,48,90,65
+SID096,Wanda,Doyle,Male,14,11th,B,44,debra99@watkins.info,(788)260-7500x9627,"249 Carson Cove Suite 746, Earlstad, DC 45646",Christopherview,South Carolina,79133,2006-01-01,2024-10-28,77.25,62,50,75
+SID097,Jessica,Ortiz,Female,18,10th,C,30,ecervantes@williams-martinez.com,073-205-0449x98449,"013 Snyder Oval, East Kimberlybury, RI 02517",Port Kelly,New Mexico,98584,2011-02-04,2021-09-24,72.77,72,66,81
+SID098,Gregory,Tran,Male,14,11th,C,22,john24@schmidt-santiago.net,5139374102,"68365 Bryant Mills, Port Sherry, KS 70182",West Sarahville,Alaska,65707,2005-06-02,2022-12-22,81.78,54,58,52
+SID099,Steven,Wong,Female,19,12th,C,60,idouglas@long.com,292.345.8304,"75885 Bell Dale, Weaverfurt, RI 11231",East Kristina,Kansas,96224,2009-07-11,2023-06-10,99.28,94,44,66
+SID100,Sarah,Kline,Female,18,12th,A,30,jbrown@yahoo.com,662.288.3096,"10486 Tyler Radial Apt. 218, New Jessica, MT 24605",North Shawn,Kansas,24213,2008-09-26,2022-10-31,89.96,63,50,90
